@@ -1,2 +1,8 @@
 There is smth inside
 rcrv
+
+deleting or not
+
+reset command
+
+revert command
